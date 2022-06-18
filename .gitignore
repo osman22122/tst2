@@ -3,6 +3,9 @@
 /.terraform
 /.terraform-provider-aws_v4.19.0_x5
 
+.terraform/
+
+
 # .tfstate files
 *.tfstate
 *.tfstate.*
