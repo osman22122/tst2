@@ -1,6 +1,7 @@
 # Local .terraform directories
 **/.terraform/*
 /.terraform
+/.terraform-provider-aws_v4.19.0_x5
 
 # .tfstate files
 *.tfstate
