@@ -9,7 +9,7 @@
 # .tfstate files
 *.tfstate
 *.tfstate.*
-.terraform.lock.hcl
+./terraform.lock.hcl
 */.terraform_1.0.7_linux_amd64.zip
 *.terraform.tfstate.backup
 *.terraform.tfstate
